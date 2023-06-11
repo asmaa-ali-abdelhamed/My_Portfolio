@@ -453,6 +453,7 @@ form textarea:focus {
 
 	.home {
 		height: 85vh;
+		overflow: hidden;
 	}
 
 	.about {
