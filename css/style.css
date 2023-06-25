@@ -500,7 +500,12 @@ form textarea:focus {
 	.navbar.active {
 		top: 100%;
 	}
-
-	
 }
- 
+@media (max-width: 370px) {
+	.portfolio-content {
+		display: block;
+	}
+	.port{
+		margin-bottom: 20px;
+	}
+}
