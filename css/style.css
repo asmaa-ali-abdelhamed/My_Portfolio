@@ -503,7 +503,7 @@ form textarea:focus {
 }
 @media (max-width: 370px) {
 	.portfolio-content {
-		display: block !important;
+		display: block;
 	}
 	.port{
 		margin-bottom: 20px;
