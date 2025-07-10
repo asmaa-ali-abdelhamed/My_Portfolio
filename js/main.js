@@ -17,7 +17,7 @@ window.onscroll = () => {
     navbar.classList.remove('active');
 };
 var typed = new Typed("#typed", {
-    strings: ["Front-end Developer", "Angular Developer", "Web Designer"],
+    strings: ["Front-end Developer", "Angular Developer"],
     typeSpeed: 60,
     backSpeed: 40,
     backDelay: 1500,
