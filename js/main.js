@@ -16,3 +16,10 @@ window.onscroll = () => {
     menu.classList.remove('bx-x');
     navbar.classList.remove('active');
 };
+var typed = new Typed("#typed", {
+    strings: ["Front-end Developer", "Angular Developer", "Web Designer"],
+    typeSpeed: 60,
+    backSpeed: 40,
+    backDelay: 1500,
+    loop: true
+});
